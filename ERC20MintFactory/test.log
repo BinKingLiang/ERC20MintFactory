@@ -1,0 +1,9 @@
+No files changed, compilation skipped
+
+Ran 3 tests for test/InscriptionFactory.t.sol:InscriptionFactoryTest
+[PASS] testDeployInscription() (gas: 224805)
+[PASS] testMaxSupply() (gas: 616690)
+[PASS] testMintInscription() (gas: 359681)
+Suite result: ok. 3 passed; 0 failed; 0 skipped; finished in 13.69ms (9.99ms CPU time)
+
+Ran 1 test suite in 748.79ms (13.69ms CPU time): 3 tests passed, 0 failed, 0 skipped (3 total tests)
