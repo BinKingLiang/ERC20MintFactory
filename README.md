@@ -7,3 +7,4 @@
 包含测试用例：
 费用按比例正确分配到发行者账号及项目方账号。
 每次发行的数量正确，且不会超过 totalSupply.
+![bb83c847fd17cbd7c7aec80b96346ccb](https://github.com/user-attachments/assets/9b80938b-43e5-4a4b-9d35-27c70c864281)
